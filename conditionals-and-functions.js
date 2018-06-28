@@ -1,7 +1,7 @@
 /*
  * Conditionals, Functions, Scope and Loops.
  */
-/*
+
 // Equals
 let equals = 1 === 1;
 console.log(equals);
@@ -20,8 +20,7 @@ let lessThanEq = 4 <= 9;
 
 // Not Equals
 let notEquals = 5 !== 2;
-*/
-/*
+
 let storeA = 10.40;
 let storeB = 5.40;
 
@@ -45,8 +44,7 @@ function squareNum (number){
 
 let squaredNumber = squareNum(4);
 console.log(squaredNumber);
-*/
-/*
+
 let x = 10;
 
 function addNumbers (n, m, x) {
@@ -60,8 +58,7 @@ function addNumbers (n, m, x) {
 }
 
 addNumbers(1, 2, 26);
-*/
-/*
+
 //					 0	 1	 2	 3	 4	 5	 6
 let ourArray = [1, 2, 3, 4, 5, 6, 7];
 
@@ -73,11 +70,9 @@ for (i = 0; i<arrLength; i++){
 		console.log('j is equal to: ' + j);
 	}
 }
-*/
-/*
+
 let x = 8;
 while (x < 10) {
 	console.log('Ran');
 	x = x + 1;
 }
-*/
